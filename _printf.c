@@ -64,7 +64,3 @@ void print_buffer(char buffer[], int *buff_ind)
 
 	*buff_ind = 0;
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> functions1.c  functions2.c  functions.c  get_flags.c  get_precision.c _printf.c
