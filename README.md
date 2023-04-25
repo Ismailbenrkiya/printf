@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x11. C - printf team project
 
 Group Project: ISMAIL BENRKIYA & MERYEME BOUCHRIT
@@ -39,3 +40,6 @@ Handle the following custom conversion specifier:
 ring
 Handle the following custom conversion specifier:
 15
+=======
+readme
+>>>>>>> functions1.c  functions2.c  functions.c  get_flags.c  get_precision.c _printf.c
